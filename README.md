@@ -26,4 +26,11 @@ Programa em Java para salvar uma planilha Excel no SQL Server 2019
         
 ---
 
+# Modelo da Planilha de Exemplo
+
+Student Name	Enrolled	Progress
+Ricardo	        27/04/72	1
+Hugo	        18/03/74	0,5
+Renato	        08/12/70	0,8
+
 
